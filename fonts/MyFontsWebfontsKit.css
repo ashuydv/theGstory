@@ -1,0 +1,36 @@
+/**
+ * @license
+ * MyFonts Webfont Build ID 3994569, 2021-01-07T12:05:26-0500
+ * 
+ * The fonts listed in this notice are subject to the End User License
+ * Agreement(s) entered into by the website owner. All other parties are 
+ * explicitly restricted from using the Licensed Webfonts(s).
+ * 
+ * You may obtain a valid license at the URLs below.
+ * 
+ * Webfont: Bayshore by Set Sail Studios
+ * URL: https://www.myfonts.com/fonts/set-sail-studios/bayshore/regular/
+ * Copyright: Copyright (c) 2016 by Set Sail Studios. All rights reserved.
+ * 
+ * Webfont: AvelineRegular by Zealab Fonts Division
+ * URL: https://www.myfonts.com/fonts/zealab-fonts-division/aveline/regular/
+ * Copyright: null
+ * 
+ * 
+ * 
+ * © 2021 MyFonts Inc
+*/
+
+
+/* @import must be at top of file, otherwise CSS will not work */
+@import url("//hello.myfonts.net/count/3cf3c9");
+  
+@font-face {
+  font-family: 'Bayshore';
+  src: url('webFonts/Bayshore/font.woff2') format('woff2'), url('webFonts/Bayshore/font.woff') format('woff');
+}
+@font-face {
+  font-family: 'AvelineRegular';
+  src: url('webFonts/AvelineRegular/font.woff2') format('woff2'), url('webFonts/AvelineRegular/font.woff') format('woff');
+}
+
